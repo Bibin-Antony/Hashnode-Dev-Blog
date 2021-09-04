@@ -1,7 +1,5 @@
 ## CSS Units Explained
 
-### Introduction
-
 If choices to make in CSS units are overwhelming you don't worry this article can help you out. Understanding the basic fundamentals of CSS units is extremely important for any budding Web-based developer. They are the key to styling the way that is easy and friendly across multiple viewports*. 
 
 > *Tip : viewport = Browser-Window Size.
